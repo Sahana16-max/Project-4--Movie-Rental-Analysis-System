@@ -1,4 +1,4 @@
-Project 3 Movie Rental Analysis System 
+Project 4 Movie Rental Analysis System 
 
 Objective: Perform advanced analysis on movie rental data using OLAP operations. 
 
